@@ -13,7 +13,7 @@ def main():
         normalize_embeddings=True,
     )
 
-    query = "actor en mal estado"
+    query = input("Describe your favorite Tarantino movie: ")
     embeddings_query = model.encode(query, normalize_embeddings=True)
 
     scores = util.dot_score(embeddings_query, embeddings_movies)[0].cpu().numpy()

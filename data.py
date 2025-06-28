@@ -2,61 +2,61 @@ tarantino_movies = [
     {
         "title": "Reservoir Dogs",
         "year": 1992,
-        "synopsis": "Un grupo de criminales realiza un atraco a una joyería que sale mal. Sospechan que hay un infiltrado entre ellos.",
-        "notes": "Ópera prima de Tarantino, reconocida por su estructura no lineal y diálogos intensos."
+        "synopsis": "A group of criminals carries out a jewelry store heist that goes wrong. They suspect there's an undercover cop among them.",
+        "notes": "Tarantino's debut film, recognized for its non-linear structure and intense dialogue."
     },
     {
         "title": "Pulp Fiction",
         "year": 1994,
-        "synopsis": "Historias entrecruzadas de mafiosos, boxeadores y criminales en Los Ángeles.",
-        "notes": "Ganó la Palma de Oro en Cannes y revitalizó el cine independiente en los 90."
+        "synopsis": "Interconnected stories of mobsters, boxers, and criminals in Los Angeles.",
+        "notes": "Won the Palme d'Or at Cannes and revitalized independent cinema in the 90s."
     },
     {
         "title": "Jackie Brown",
         "year": 1997,
-        "synopsis": "Una azafata atrapada entre la ley y un traficante intenta engañar a ambos para quedarse con el dinero.",
-        "notes": "Adaptación de una novela de Elmore Leonard; más sutil y madura que sus anteriores."
+        "synopsis": "A flight attendant caught between the law and a drug dealer tries to deceive both to keep the money.",
+        "notes": "Adaptation of an Elmore Leonard novel; more subtle and mature than his previous films."
     },
     {
         "title": "Kill Bill: Vol. 1",
         "year": 2003,
-        "synopsis": "Una asesina busca venganza contra su antiguo escuadrón y su líder, Bill.",
-        "notes": "Influenciada por el cine de artes marciales y animé japonés. Muy estilizada."
+        "synopsis": "An assassin seeks revenge against her former squad and their leader, Bill.",
+        "notes": "Influenced by martial arts cinema and Japanese anime. Highly stylized."
     },
     {
         "title": "Kill Bill: Vol. 2",
         "year": 2004,
-        "synopsis": "Continúa la venganza de “La Novia”, profundizando en su pasado y enfrentamiento final con Bill.",
-        "notes": "Más dramática y menos violenta que la primera parte; cierra el arco de forma emocional."
+        "synopsis": "Continues 'The Bride's' revenge, delving into her past and final confrontation with Bill.",
+        "notes": "More dramatic and less violent than the first part; closes the arc emotionally."
     },
     {
         "title": "Death Proof",
         "year": 2007,
-        "synopsis": "Un doble de riesgo psicópata asesina mujeres con su auto 'a prueba de muerte'.",
-        "notes": "Parte del proyecto Grindhouse con Robert Rodríguez; un homenaje al cine exploitation."
+        "synopsis": "A psychopathic stuntman kills women with his 'death proof' car.",
+        "notes": "Part of the Grindhouse project with Robert Rodriguez; a tribute to exploitation cinema."
     },
     {
         "title": "Inglourious Basterds",
         "year": 2009,
-        "synopsis": "Durante la Segunda Guerra Mundial, un grupo de soldados judíos americanos planea asesinar a líderes nazis.",
-        "notes": "Reescribe la historia; Christoph Waltz ganó un Oscar por su papel como Hans Landa."
+        "synopsis": "During World War II, a group of Jewish-American soldiers plan to assassinate Nazi leaders.",
+        "notes": "Rewrites history; Christoph Waltz won an Oscar for his role as Hans Landa."
     },
     {
         "title": "Django Unchained",
         "year": 2012,
-        "synopsis": "Un esclavo liberado se une a un cazarrecompensas para rescatar a su esposa.",
-        "notes": "Western brutal y estilizado con fuertes críticas al racismo y a la esclavitud."
+        "synopsis": "A freed slave teams up with a bounty hunter to rescue his wife.",
+        "notes": "Brutal and stylized western with strong critiques of racism and slavery."
     },
     {
         "title": "The Hateful Eight",
         "year": 2015,
-        "synopsis": "Ocho desconocidos quedan atrapados en una cabaña durante una tormenta de nieve; la tensión crece.",
-        "notes": "Rodada en 70mm; mezcla de western y suspenso tipo Agatha Christie."
+        "synopsis": "Eight strangers get trapped in a cabin during a snowstorm; tension builds.",
+        "notes": "Shot in 70mm; a mix of western and Agatha Christie-style suspense."
     },
     {
         "title": "Once Upon a Time in Hollywood",
         "year": 2019,
-        "synopsis": "Un actor en decadencia y su doble enfrentan el cambio del Hollywood de los 60, cruzándose con la historia de Sharon Tate.",
-        "notes": "Una carta de amor al cine clásico con una ucronía final. Ganó 2 Oscars."
+        "synopsis": "A fading actor and his stunt double face the changing Hollywood of the 60s, intersecting with Sharon Tate's story.",
+        "notes": "A love letter to classic cinema with an alternate history ending. Won 2 Oscars."
     }
 ]
