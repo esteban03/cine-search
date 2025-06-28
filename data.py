@@ -2,61 +2,61 @@ tarantino_movies = [
     {
         "title": "Reservoir Dogs",
         "year": 1992,
-        "synopsis": "A group of criminals carries out a jewelry store heist that goes wrong. They suspect there's an undercover cop among them.",
-        "notes": "Tarantino's debut film, recognized for its non-linear structure and intense dialogue."
+        "synopsis": "A meticulously planned diamond heist goes catastrophically wrong when police arrive at the scene too quickly, suggesting an informant among the color-coded criminal crew. In the aftermath, the surviving thieves - Mr. White, Mr. Orange, Mr. Pink, Mr. Blonde, and others - retreat to a warehouse hideout where paranoia, violence, and mistrust consume the group. Through flashbacks and real-time tension, the film explores themes of loyalty, betrayal, and honor among thieves. Mr. Orange, bleeding profusely from a gunshot wound, struggles with a devastating secret while Mr. Blonde's psychopathic torture of a captured police officer reveals the crew's fracturing moral codes. The non-linear narrative builds to a Mexican standoff where trust dissolves completely, and the truth about the undercover cop infiltrating their ranks leads to a tragic climax of violence and revelation.",
+        "notes": "Tarantino's debut film, recognized for its non-linear structure and intense dialogue.",
     },
     {
         "title": "Pulp Fiction",
         "year": 1994,
-        "synopsis": "Interconnected stories of mobsters, boxers, and criminals in Los Angeles.",
-        "notes": "Won the Palme d'Or at Cannes and revitalized independent cinema in the 90s."
+        "synopsis": "Three interwoven stories unfold in the criminal underworld of Los Angeles, exploring themes of redemption, moral choice, and chance encounters. Vincent Vega and Jules Winnfield, philosophical hitmen for crime boss Marsellus Wallace, retrieve a mysterious briefcase while debating divine intervention and the morality of their profession. Aging boxer Butch Coolidge defies Wallace by refusing to throw a fight, leading to a violent chase through the city that intersects with a disturbing encounter involving bondage-obsessed criminals in a pawn shop basement. Meanwhile, Vincent must escort Wallace's wife Mia on a night out that nearly turns deadly when she overdoses on heroin, thinking it's cocaine. The film's non-chronological structure reveals how seemingly random events connect these characters in profound ways, culminating in Jules's spiritual awakening and decision to abandon his life of violence after witnessing what he believes to be a miracle.",
+        "notes": "Won the Palme d'Or at Cannes and revitalized independent cinema in the 90s.",
     },
     {
         "title": "Jackie Brown",
         "year": 1997,
-        "synopsis": "A flight attendant caught between the law and a drug dealer tries to deceive both to keep the money.",
-        "notes": "Adaptation of an Elmore Leonard novel; more subtle and mature than his previous films."
+        "synopsis": "Jackie Brown, a middle-aged African American flight attendant struggling with financial difficulties, becomes entangled in a dangerous game between federal agents and ruthless arms dealer Ordell Robbie. When caught smuggling money from Mexico, Jackie faces prison time unless she cooperates with ATF agent Ray Nicolette to help capture Ordell. However, Jackie devises an elaborate double-cross scheme to outwit both the law enforcement and the criminals, planning to steal Ordell's money during a staged sting operation. With the help of bail bondsman Max Cherry, who becomes romantically interested in her, Jackie navigates a complex web of deception involving Ordell's unpredictable associate Louis Gara and his naive girlfriend Melanie. The film explores themes of survival, aging, racial dynamics, and the lengths people go to secure their future, as Jackie uses her intelligence and determination to escape her circumstances while playing all sides against each other.",
+        "notes": "Adaptation of an Elmore Leonard novel; more subtle and mature than his previous films.",
     },
     {
         "title": "Kill Bill: Vol. 1",
         "year": 2003,
-        "synopsis": "An assassin seeks revenge against her former squad and their leader, Bill.",
-        "notes": "Influenced by martial arts cinema and Japanese anime. Highly stylized."
+        "synopsis": "The Bride, formerly known as Beatrix Kiddo, awakens from a four-year coma to discover her unborn child is gone and embarks on a bloody quest for vengeance against her former assassin teammates who betrayed her on her wedding day. Armed with a legendary samurai sword crafted by master swordsmith Hattori Hanzo, she systematically hunts down the members of the Deadly Viper Assassination Squad. Her first targets include Vernita Green, now a suburban mother hiding her deadly past, and O-Ren Ishii, a half-Japanese, half-Chinese crime boss who rules Tokyo's criminal underworld with an iron fist. The film culminates in an epic showdown at the House of Blue Leaves, where The Bride faces O-Ren's army of masked fighters and her deadly bodyguard Gogo Yubari in a spectacular display of martial arts violence. Blending genres from samurai cinema to spaghetti westerns, the film showcases stylized action sequences, anime-inspired flashbacks, and a protagonist driven by maternal fury and the desire for justice against those who destroyed her life and stole her child.",
+        "notes": "Influenced by martial arts cinema and Japanese anime. Highly stylized.",
     },
     {
         "title": "Kill Bill: Vol. 2",
         "year": 2004,
-        "synopsis": "Continues 'The Bride's' revenge, delving into her past and final confrontation with Bill.",
-        "notes": "More dramatic and less violent than the first part; closes the arc emotionally."
+        "synopsis": "The Bride continues her revenge mission with a more introspective and emotional journey, targeting the remaining members of the Deadly Viper Assassination Squad while uncovering the truth about her daughter's fate. Her quest leads her to trailer-dwelling Budd in the desert, where she faces burial alive and must overcome claustrophobia and despair to escape her grave using skills learned from cruel martial arts master Pai Mei. After eliminating the one-eyed Elle Driver in a brutal trailer fight involving venomous snakes, The Bride finally confronts Bill, her former lover and mentor who ordered the wedding chapel massacre. In an emotional climax, she discovers her daughter B.B. is alive and living with Bill, leading to complex feelings of love, betrayal, and maternal protection. The film explores themes of motherhood, forgiveness, and the cycle of violence, as The Bride must choose between her thirst for revenge and her desire to reclaim her role as a mother, ultimately using the five-point palm exploding heart technique to kill Bill while grappling with the moral complexity of her actions.",
+        "notes": "More dramatic and less violent than the first part; closes the arc emotionally.",
     },
     {
         "title": "Death Proof",
         "year": 2007,
-        "synopsis": "A psychopathic stuntman kills women with his 'death proof' car.",
-        "notes": "Part of the Grindhouse project with Robert Rodriguez; a tribute to exploitation cinema."
+        "synopsis": "Psychopathic Hollywood stuntman 'Stuntman Mike' McKay uses his specially reinforced 1970 Chevy Nova as a weapon to murder young women, deriving sexual pleasure from vehicular homicide while surviving crashes in his 'death proof' car. In Austin, Texas, he targets a group of friends including aspiring actress Julia, but his plan goes awry when he encounters a second group of women who prove to be more formidable opponents. Led by fearless stuntwoman Zoë Bell (playing herself), along with Abernathy and Kim, these women turn the tables when they realize Mike is stalking them during a test drive of a white Dodge Challenger. What begins as Mike's predatory hunt transforms into a high-speed chase where the hunter becomes the hunted, as the women use their own automotive skills and fearlessness to pursue and ultimately destroy their would-be killer. The film serves as both a tribute to 1970s car chase films and exploitation cinema while subverting the traditional victim narrative, empowering its female characters to fight back against masculine violence with equal brutality and determination.",
+        "notes": "Part of the Grindhouse project with Robert Rodriguez; a tribute to exploitation cinema.",
     },
     {
         "title": "Inglourious Basterds",
         "year": 2009,
-        "synopsis": "During World War II, a group of Jewish-American soldiers plan to assassinate Nazi leaders.",
-        "notes": "Rewrites history; Christoph Waltz won an Oscar for his role as Hans Landa."
+        "synopsis": "During World War II, multiple revenge plots converge in Nazi-occupied France, weaving together stories of resistance, survival, and retribution. The 'Basterds,' a secret unit of Jewish-American soldiers led by Lieutenant Aldo Raine, terrorize Nazi forces through brutal guerrilla warfare, scalping their victims and carving swastikas into survivors' foreheads. Meanwhile, young French Jewish woman Shosanna Dreyfus, whose family was murdered by SS Colonel Hans Landa, now operates a Parisian cinema under a false identity. When the Nazis plan to premiere their propaganda film at her theater, Shosanna devises a plan to burn down the building with the entire Nazi leadership inside. British undercover operation 'Kino,' involving film critic turned spy Archie Hicox and German actress double agent Bridget von Hammersmark, aims to assassinate Hitler at the same premiere. The film builds to a climactic alternate history where multiple assassination attempts converge in a fiery conclusion that imagines the war ending through cinema itself, blending dark humor, intense dialogue, and explosive violence while examining themes of revenge, propaganda, and the power of storytelling.",
+        "notes": "Rewrites history; Christoph Waltz won an Oscar for his role as Hans Landa.",
     },
     {
         "title": "Django Unchained",
         "year": 2012,
-        "synopsis": "A freed slave teams up with a bounty hunter to rescue his wife.",
-        "notes": "Brutal and stylized western with strong critiques of racism and slavery."
+        "synopsis": "Set in the antebellum South two years before the Civil War, freed slave Django partners with German bounty hunter Dr. King Schultz to rescue his wife Broomhilda from the brutal Candyland plantation. Schultz, who freed Django to help identify wanted criminals, becomes his mentor in gunfighting and bounty hunting while planning an elaborate scheme to infiltrate Calvin Candie's Mississippi plantation. Candie, a charismatic but sadistic plantation owner, forces slaves to fight to the death as 'mandingo fighters' and feeds disobedient slaves to his dogs. Django must navigate the psychological trauma of returning to a slave plantation while maintaining his cover as a black slaver, witnessing horrific abuse while suppressing his desire for immediate vengeance. The plan involves purchasing an expensive fighter as a pretense to buy Broomhilda at a lower price, but when their deception is discovered, the mission becomes a violent confrontation. The film explores themes of love, freedom, revenge, and the brutal realities of slavery, culminating in Django's transformation from property to empowered gunslinger who destroys the plantation system that once owned him, literally and symbolically burning down the institution of slavery.",
+        "notes": "Brutal and stylized western with strong critiques of racism and slavery.",
     },
     {
         "title": "The Hateful Eight",
         "year": 2015,
-        "synopsis": "Eight strangers get trapped in a cabin during a snowstorm; tension builds.",
-        "notes": "Shot in 70mm; a mix of western and Agatha Christie-style suspense."
+        "synopsis": "During a Wyoming blizzard in post-Civil War America, eight strangers with hidden agendas and dark pasts become trapped together in Minnie's Haberdashery, a remote mountain cabin that becomes a pressure cooker of suspicion and violence. Bounty hunter John Ruth transports fugitive Daisy Domergue to Red Rock for hanging, accompanied by fellow bounty hunter Major Marquis Warren and newly appointed sheriff Chris Mannix. At the haberdashery, they encounter mysterious characters including hangman Oswaldo Mobray, Confederate general Sanford Smithers, cowboy Joe Gage, and Mexican worker Bob. As the storm rages outside, Warren begins to suspect that several occupants are not who they claim to be, and that some may be confederates planning to free Daisy. Through Warren's detective work and a series of flashbacks, the truth emerges about a conspiracy involving poisoned coffee, hidden identities, and cold-blooded murder. The film becomes a claustrophobic murder mystery where paranoia and racial tensions explode into violence, exploring themes of justice, revenge, and post-war American identity while paying homage to both western and mystery genres.",
+        "notes": "Shot in 70mm; a mix of western and Agatha Christie-style suspense.",
     },
     {
         "title": "Once Upon a Time in Hollywood",
         "year": 2019,
-        "synopsis": "A fading actor and his stunt double face the changing Hollywood of the 60s, intersecting with Sharon Tate's story.",
-        "notes": "A love letter to classic cinema with an alternate history ending. Won 2 Oscars."
-    }
+        "synopsis": "Set in 1969 Los Angeles during the twilight of Hollywood's golden age, fading television western star Rick Dalton struggles with career decline and alcoholism while living next door to rising actress Sharon Tate and her husband Roman Polanski. Rick's best friend and stunt double Cliff Booth, a laid-back war veteran with a mysterious violent past, serves as his driver and handyman while navigating his own uncertain future in a changing industry. As Rick guest-stars on various TV shows and contemplates a move to Italian spaghetti westerns, the film lovingly recreates the atmosphere of late 1960s Hollywood, from the Sunset Strip to drive-in theaters. Meanwhile, Charles Manson and his cult followers lurk in the background, with Manson visiting the Polanski-Tate residence and his followers living at the remote Spahn Ranch where Cliff has a tense encounter with the group. The narrative builds to an alternate history climax on the night of August 9, 1969, when the Manson followers target Rick's house instead of Sharon Tate's, leading to a violent confrontation that rewrites one of Hollywood's most tragic real-life events. The film serves as both a nostalgic love letter to a lost era of cinema and a meditation on friendship, aging, and the end of an American dream.",
+        "notes": "A love letter to classic cinema with an alternate history ending. Won 2 Oscars.",
+    },
 ]
