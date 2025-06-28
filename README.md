@@ -1,31 +1,31 @@
-# Semantic Search with Sentence Transformers
+# 🔍 Semantic Search with Sentence Transformers
 
 A simple example demonstrating semantic search using open-source embeddings and the `sentence-transformers` library. This project searches through a collection of Tarantino movies using natural language queries.
 
-## What is Semantic Search?
+## 🤔 What is Semantic Search?
 
 Semantic search understands the meaning behind your query rather than just matching keywords. Instead of searching for exact word matches, it finds content that is conceptually similar to your query using vector embeddings.
 
-## How it Works
+## ⚙️ How it Works
 
 1. **Text Encoding**: The `sentence-transformers` library converts movie descriptions into high-dimensional vectors (embeddings) that capture semantic meaning
 2. **Query Processing**: Your search query is converted into the same vector space  
 3. **Similarity Matching**: The system finds movies with embeddings most similar to your query using cosine similarity
 4. **Results**: Returns the best matching movie based on semantic similarity scores
 
-## Features
+## ✨ Features
 
 - Uses the `all-MiniLM-L6-v2` model for fast, accurate embeddings
 - Searches through Tarantino movie database with English descriptions
 - Demonstrates vector similarity scoring
 - Lightweight and easy to understand implementation
 
-## Prerequisites
+## 📋 Prerequisites
 
 - Python 3.12+
 - [uv](https://docs.astral.sh/uv/) package manager
 
-## Installation
+## 🚀 Installation
 
 ### Install uv (if not already installed)
 
@@ -48,7 +48,7 @@ That's it! `uv` automatically:
 - Installs all dependencies from `pyproject.toml`
 - Runs the script
 
-## Usage
+## 💻 Usage
 
 ### Basic Example
 
@@ -70,7 +70,7 @@ query = "war movie"              # Will likely match Inglourious Basterds
 query = "western"                # Will likely match Django Unchained
 ```
 
-## Customization
+## 🎨 Customization
 
 ### Add Your Own Data
 
@@ -88,23 +88,12 @@ your_data = [
 
 Then update the text formatting in `main.py` to match your data structure.
 
-## Project Structure
-
-```
-search/
-├── README.md           # This file
-├── pyproject.toml      # Project dependencies
-├── main.py            # Main search logic
-├── data.py           # Movie database
-└── uv.lock          # Dependency lock file
-```
-
-## Dependencies
+## 📦 Dependencies
 
 - **sentence-transformers**: Provides pre-trained models for text embeddings
 - **numpy**: Numerical operations for vector similarity calculations
 
-## Performance Notes
+## ⚡ Performance Notes
 
 This implementation runs on CPU using `.cpu().numpy()` to ensure compatibility across all systems. While GPU acceleration with NVIDIA CUDA would be faster for larger datasets, CPU processing is:
 
@@ -114,7 +103,7 @@ This implementation runs on CPU using `.cpu().numpy()` to ensure compatibility a
 
 For production applications with larger datasets, consider GPU acceleration if available.
 
-## Why This Example?
+## 🎯 Why This Example?
 
 This project demonstrates key concepts in modern AI applications:
 
@@ -125,7 +114,7 @@ This project demonstrates key concepts in modern AI applications:
 
 Perfect for learning the foundations of semantic search before scaling to larger datasets or more complex applications.
 
-## Next Steps
+## 🚀 Next Steps
 
 - Experiment with different sentence transformer models
 - Add more sophisticated ranking algorithms
