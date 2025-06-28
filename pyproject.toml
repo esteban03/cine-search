@@ -1,0 +1,10 @@
+[project]
+name = "search"
+version = "0.1.0"
+description = "fast semantic search"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.3.1",
+    "sentence-transformers>=4.1.0",
+]
