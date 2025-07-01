@@ -19,8 +19,8 @@ def main():
     scores = util.dot_score(embeddings_query, embeddings_movies)[0].cpu().numpy()
     idx_max = np.argmax(scores)
 
-    better_result = tarantino_movies[idx_max]
-    print("Better result: ", better_result["title"])
+    best_result = tarantino_movies[idx_max]
+    print("Best result: ", best_result["title"])
     print("Score: ", scores[idx_max])
 
 if __name__ == "__main__":
